@@ -1,3 +1,3 @@
 # resources
 
-1. Getting started with [TheCyberHUB](https://www.thecyberhub.org/) 
+1. Getting started with Cyber Security: [TheCyberHUB](https://www.thecyberhub.org/) 
