@@ -64,6 +64,7 @@
 - [CyberScoop](https://www.cyberscoop.com/): Covers the latest in cybersecurity, government policies, and cyber threats
 - [SC Media](https://www.scmagazine.com/): Reports on cybersecurity news, product reviews, and expert analysis
 - [SecurityWeek](https://www.securityweek.com/): Cybersecurity news, analysis, and resources focusing on IT security strategies
+- [ICHI — Internet Cyber Health Index](https://ichi.global): Free, source-transparent daily barometer of internet cyber health, aggregating threat intelligence, news, and telemetry from 20+ named public sources — a quick situational awareness check for SOC analysts and security researchers
 
 ## Cybersecurity and Bug Hunting Browser Extensions
 - [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/): Technology profiler
